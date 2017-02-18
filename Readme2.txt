@@ -1,0 +1,1 @@
+This is second file gor Git repo.
